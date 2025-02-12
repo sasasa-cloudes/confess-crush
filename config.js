@@ -1,9 +1,9 @@
 const CONFIG = {
-    titleWeb: "Cậu là món quà Valentine của tớ đúng không nhỉ?",
-    introTitle: 'Tấn Đạt lỏ',
+    titleWeb: "Bé là món quà Valentine của tôi đúng không nhỉ?",
+    introTitle: 'Rùa nhỏ',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    Lạc vào tim Anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    messDesc: 'Sáng mai Sa qua kiếm em',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/tuyetanh/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/tan.at.994176#
+    messLink: 'https://www.facebook.com/tuyetanhh0912' 
 }
